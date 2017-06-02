@@ -21,7 +21,7 @@
     "mongoose": "^4.5.5",
     "request": "^2.81.0",
     "textangular": "^1.5.16",
-    "cheerio": "^1.0.0-rc.1",
+    "cheerio": "^1.0.0-rc.1"
   },
   "devDependencies": {
     "cross-env": "^4.0.0"
